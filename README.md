@@ -34,7 +34,7 @@
 
 ## :white_check_mark: Description
 
-:exclamation: Application aims to perform authentication with GitHub (OAuth) and sending, listing and sharing messages using socket.
+:exclamation: Application aims to perform authentication with GitHub(OAuth),  list user profile and sending, listing and sharing messages using socket.
 
 ## :checkered_flag: Getting Started
 
